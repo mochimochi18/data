@@ -1,0 +1,48 @@
+{
+    "sayings": [
+        {"mood": "happy", "perc":0.2, "saying":"^___^"},
+        {"mood": "happy", "perc":0.4, "saying":"Cheers!"},
+        {"mood": "happy", "perc":0.6, "saying":"Joyful now!"},
+        {"mood": "happy", "perc":0.8, "saying":"I am walking on cloud 9!"},
+        {"mood": "happy", "perc":1, "saying":"I am on top of the world!"},
+        {"mood": "sad", "perc":0.2, "saying":"I am feeling bad..."},
+        {"mood": "sad", "perc":0.4, "saying":"Depressed about everything"},
+        {"mood": "sad", "perc":0.6, "saying":"Go Away!"},
+        {"mood": "sad", "perc":0.8, "saying":"Leave me alone!"},
+        {"mood": "sad", "perc":1, "saying":"I feel like it is the end of the world..."},
+        {"mood": "angry", "perc":0.2, "saying":"I am on fire!"},
+        {"mood": "angry", "perc":0.4, "saying":"I am very annoyed now!"},
+        {"mood": "angry", "perc":0.6, "saying":"Get Lost!"},
+        {"mood": "angry", "perc":0.8, "saying":"I am mad at you."},
+        {"mood": "angry", "perc":1, "saying":"It really gets on my nerves!"},
+        {"mood": "joke", "perc":0.2, "saying":"What do you call a dinosaur with no eyes? Shut up."},
+        {"mood": "joke", "perc":0.4, "saying":"What did the 0 say to the 8? Nice belt!"},
+        {"mood": "joke", "perc":0.6, "saying":"What do you call a cow with two legs? Lean beef."},
+        {"mood": "joke", "perc":0.8, "saying":"I never make mistakes...I thought I did once; but I was wrong."},
+        {"mood": "joke", "perc":1, "saying":"What's Beethoven's favourite fruit?...Ba-na-na-naaa!"}
+    ],
+    "foods":[
+       {"foodName": "Caeser Salad", "foodValue":10, "foodPoisoning":0.03},
+       {"foodName": "Salmon Sashimi", "foodValue":55, "foodPoisoning":0.5},
+       {"foodName": "French Fries", "foodValue":60, "foodPoisoning":0.3},
+       {"foodName": "Grilled Chicken", "foodValue":70, "foodPoisoning":0.2},
+       {"foodName": "Beef Steak", "foodValue":85, "foodPoisoning":0.4},
+       {"foodName": "Cheese Burger", "foodValue":80, "foodPoisoning":0.5},
+       {"foodName": "Matcha Mochi", "foodValue":25, "foodPoisoning":0.25},
+       {"foodName": "Cheese Macaroni", "foodValue":65, "foodPoisoning":0.15},
+       {"foodName": "Caramel Apple Danish", "foodValue":25, "foodPoisoning":0.25},
+       {"foodName": "Chocolate Cake", "foodValue":20, "foodPoisoning":0.7},
+       {"foodName": "Poison", "foodValue":1, "foodPoisoning":1}
+     ],
+    "compliments":[
+        "bork you have the shiniest nose hairs!",
+        "bork is awesome!",
+        "If you look in the dictionary next to awesome, you'll find a picture of bork!",
+        "bork is the greatest!",
+        "bork, you are fine! Damn!",
+        "bork, did it hurt when you fell out of heaven?",
+        "bork, you have style!",
+        "bork, I'd hug you if I weren't just pixels!",
+        "bork, I bet you sweat glitter!"
+    ]
+}
